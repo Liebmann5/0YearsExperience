@@ -17,9 +17,17 @@ export default function Nav() {
       path: '/about',
       text: 'About',
     },
-    {
+    {         //TODO: SWITCH TO MY_PROJECTS!!!!
       path: '/work',
       text: 'Work',
+    },
+    {
+      path: '/blog',
+      text: 'Blog',
+    },
+    {
+      path: '/projects',
+      text: 'Projects',
     },
   ]
 

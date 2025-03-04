@@ -60,3 +60,8 @@ You update them the same way you'd update links on the home page.
 ### Styling
 
 To change the styling visit [styling docs](https://neobrutalism-components.vercel.app/docs/styling), and copy the desired styling to tailwind config like it's shown in the styling docs.
+
+```
+
+
+```
