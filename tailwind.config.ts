@@ -27,7 +27,7 @@ const config: Config = {
         darkBorder: '#000',
         secondaryBlack: '#212121', // opposite of plain white, not used pitch black because borders and box-shadows are that color
       },
-      typography: (theme) => ({
+      typography: (theme: any) => ({
         dark: {
           css: {
             color: theme('colors.darkText'),

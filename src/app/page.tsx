@@ -19,6 +19,7 @@ export default function Home() {
             target="_blank"
             className="font-heading underline"
             href="https://nicholasliebmann.com/"
+            rel="noopener noreferrer"
           >
             website
           </a>{' '}
