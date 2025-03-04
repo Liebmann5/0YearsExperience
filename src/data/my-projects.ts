@@ -70,10 +70,6 @@ const MY_PROJECTS: {
     lastUpdate: '2025-03-03',
     slug: 'project-4',
   },
-]
-
-export default MY_PROJECTS
-
 /*
   {
     name: 'Project 4',
@@ -85,3 +81,6 @@ export default MY_PROJECTS
     slug: 'autoapply-web-scraper',',
   },
 */
+]
+
+export default MY_PROJECTS

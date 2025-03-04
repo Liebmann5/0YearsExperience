@@ -9,7 +9,7 @@ export default function Work() {
       <div className="mb-10 text-base sm:text-lg">
         <p>
           As you will see below I have plenty of experience experiencing experiences. I plan to
-          continue collecting experience so that I can say that I'm experienced!
+          continue collecting experience so that I can say that I&apos;m experienced!
         </p>
       </div>
 
