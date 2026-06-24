@@ -1,6 +1,6 @@
 ---
 title: "Leveling the Playing Field"
-date: "2025-03-01"
+date: "2025-03-02"
 excerpt: "Companies use automation to make hiring more efficient, I built a tool to help job seekers make the job hunt more efficient (and more)"
 ---
 

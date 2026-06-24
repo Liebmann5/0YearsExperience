@@ -1,6 +1,6 @@
 ---
 title: "On paper I should have never graduated in Applied Math and should know nothing but check this out"
-date: "2025-03-01"
+date: "2026-06-24"
 excerpt: "AutoApply uses spatial geometry and the Hungarian algorithm to read webpages instead of brittle HTML scraping."
 ---
 
