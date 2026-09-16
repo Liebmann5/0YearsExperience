@@ -63,7 +63,7 @@ export default function Keys() {
                     <h3 className="font-heading text-lg"> Signed commits</h3>
                     <p className="text-sm sm:text-base">
                         Every commit here is signed with a hardware-backed SSH key. Look for the green
-                        "Verified" badge.
+                        &quot;Verified&quot; badge.
                     </p>
                     <a
                         className={buttonStyle}
@@ -79,7 +79,7 @@ export default function Keys() {
                     <Fingerprint size={28} />
                     <h3 className="font-heading text-lg">AA research attestations</h3>
                     <p className="text-sm sm:text-base">
-                        Seeded runs of AutoApply's research pipeline, signed and publicly timestamped
+                        Seeded runs of AutoApply&apos;s research pipeline, signed and publicly timestamped
                         as well as reproducible, not just asserted.
                     </p>
                     <a
