@@ -1,4 +1,5 @@
 import Links from '@/components/links'
+import Keys from '@/components/keys'
 
 export default function Home() {
   return (
@@ -38,6 +39,7 @@ export default function Home() {
       </div>
 
       <Links />
+      <Keys />
     </div>
   )
 }

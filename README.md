@@ -1,12 +1,22 @@
-<img src="public/preview.png" />
+<img src="public/cropped-website-photo.png" />
 
-# Portfolio
+<!-- # Portfolio
 
 Portfolio is a neobrutalism-styled nextjs tailwind template for portfolios.
 
 ## Get started
 
-[Create a new repo](https://github.com/neobrutalism-templates/portfolio/generate) from this template.
+[Create a new repo](https://github.com/neobrutalism-templates/portfolio/generate) from this template. -->
+# nicholasliebmann.dev
+
+Source for my personal portfolio site, built with Next.js + Tailwind.
+Live at [nicholasliebmann.dev](https://www.nicholasliebmann.dev).
+
+Originally forked from the open-source
+[neobrutalism-templates/portfolio](https://github.com/neobrutalism-templates/portfolio)
+template by Samuel Breznjak.
+
+## Get started
 
 ### Installation
 

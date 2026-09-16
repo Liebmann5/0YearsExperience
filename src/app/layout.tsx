@@ -8,7 +8,8 @@ import { ThemeProvider } from '@/components/theme-provider'
 const montserrat = Montserrat({ subsets: ['latin'] })
 
 export const metadata: Metadata = {
-  title: 'John Doe',
+  title: 'Nicholas J Liebmann',
+  description: 'Break yo self',
 }
 
 export default function RootLayout({
